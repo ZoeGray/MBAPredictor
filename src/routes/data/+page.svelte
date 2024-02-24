@@ -9,7 +9,7 @@
       <TableHeadCell>Schedule</TableHeadCell>
       <TableHeadCell>Prediction</TableHeadCell>
     </TableHead>
-    <TableBody class="divide-y">
+    <TableBody>
       <TableBodyRow>
         <TableBodyCell>Apple MacBook Pro 17"</TableBodyCell>
         <TableBodyCell>Sliver</TableBodyCell>
